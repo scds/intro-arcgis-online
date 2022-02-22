@@ -13,4 +13,4 @@ All that is required for this workshop are: 1) an ArcGIS Online account, and 2) 
 2. Click "Sign In" > Create an account > Create an ArcGIS Public Account (or free trial)
 3. Complete the form and verify your account
 
-Current students, staff, and faculty may request an organizational account by contacting libgis@mcmaster.ca.
+Current students, staff, and faculty may request an organizational account by contacting <libgis@mcmaster.ca>.
