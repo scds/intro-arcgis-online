@@ -2,7 +2,7 @@ title: Introduction to GIS (ArcGIS Online)
 subtitle: 'A Data Analysis Support Hub Tutorial'
 
 remote_theme: scds/just-the-docs
-github_repo_url: "https://github.com/scds/intro-arcgis-online"
+github_repo_url: "https://scds.github.io/intro-arcgis-online/"
 color_scheme: dash
 
 # Heading anchor links appear on hover over h1-h6 tags in page content
