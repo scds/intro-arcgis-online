@@ -5,15 +5,14 @@ description: A Data Analysis Support Hub Tutorial
 nav_order: 1
 ---
 
-<!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
+<img src="assets/img/logo.png" alt="Workshop Title Slide" width="250">
 
-<!--
-<img src="assets/img/dmds-tableau.png" alt="Workshop Title Slide" width="720">
+# Welcome to Introduction to GIS (ArcGIS Online) 
 
-# Welcome to Data Visualization with Tableau. 
+Synchronous Workshop | February 17, 2022
 
-You might not think of numbers and locations as Humanities data, but it all depends on how you use them! Working with numeric and spatial data, you will learn how to create visualizations in [Tableau](https://www.tableau.com/).
+If you’ve ever thought that a map would help illustrate a critical part of your research, this workshop is for you. This beginner-friendly session introduces participants to the core concepts of Geographic Information Systems (GIS) and geospatial data, then shows how to apply these concepts during a hands-on exercise where you will create a web-based map in ArcGIS Online.
 
 Proceed to the [Preparation](preparation) page to get started.
--->
+
 
