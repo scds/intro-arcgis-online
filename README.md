@@ -1,14 +1,10 @@
-# << ENTER WORKSHOP NAME HERE >>
-Materials DASH tutorial: **<<  ENTER WORKSHOP NAME HERE  >> **  
+# INTRODUCTION TO GIS (ArcGIS ONLINE)
+Materials for DASH tutorial: **Introduction to ArcGIS Online**  
 
-This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.githib.io/<<enter_site_url>>) with GitHub Pages   
+This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.githib.io/intro-arcgis-online) with GitHub Pages   
 
 
 Contributions by the following individuals: 
-- Workshop content created by << ENTER NAME(S) HERE >> 
-- Content edited for online use by << ENTER NAME(S) HERE >> 
-- Online pages created by << ENTER NAME(S) HERE >> 
-
-
-  
-All content is made available under a GNU General Public License v3.0.
+- Workshop content created by Christine Homuth 
+- Content edited for online use by Christine Homuth 
+- Online pages created by Christine Homuth
