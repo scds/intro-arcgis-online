@@ -4,6 +4,8 @@ title: Learn More
 nav_order: 4
 ---
 
+# Learn More
+
 ## Additional Resources
 
 - [Learn ArcGIS](https://learn-arcgis-learngis.hub.arcgis.com/)
